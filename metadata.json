@@ -1,0 +1,6 @@
+{
+  "name": "AR All Video Downloader",
+  "description": "Premium 3D Royal Blue and Gold video and audio downloader with built-in browser, media analyzer, music player, and download manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
